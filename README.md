@@ -1,4 +1,4 @@
-# Data Science SQL Project 19
+# Data Science Python Project 19
 
 ### Proje Kurulumu
 Projeyi öncelikle forklayın ve clone edin.
